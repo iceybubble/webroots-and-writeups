@@ -30,11 +30,12 @@ Each write-up reflects:
 
 | Room Name                 | Category           | Description                                               | Link                                            |
 |---------------------------|--------------------|-----------------------------------------------------------|-------------------------------------------------|
-| **Cybersecurity Career Path** | 🧭 Career Exploration | Overview of 7 core cybersecurity roles and key takeaways   | [View](rooms/cybersecurity_career_path.md)  |
-| **Google Dorking**            | 🧠 Info Recon       | Learn how to use Google for reconnaissance and OSINT       | [View](rooms/google_dorking.md)               |
-| **Mountaineer**               | 🚩 Flag Capture     | A challenge focused on privilege escalation and enumeration | [View](flags/mountaineer.md)                 |
-| **Unified Kill Chain**        | 🧠 Threat Intel     | Understanding modern attacker behavior and threat modeling | [View](rooms/unified_kill_chain.md)           |
-| **Investigating Windows**     | 🧪 Forensics        | Hands-on Windows forensics and incident response skills    | [View](rooms/investigating_windows.md)        |
+| **Cybersecurity Career Path** | 🧭 Career Exploration | Overview of 7 core cybersecurity roles and key takeaways   | [View](rooms/cybersecurity_career_path.md)      |
+| **Google Dorking**            | 🧠 Info Recon       | Learn how to use Google for reconnaissance and OSINT       | [View](rooms/google_dorking.md)                 |
+| **Mountaineer**               | 🚩 Flag Capture     | A challenge focused on privilege escalation and enumeration | [View](flags/mountaineer.md)                    |
+| **Unified Kill Chain**        | 🧠 Threat Intel     | Understanding modern attacker behavior and threat modeling | [View](rooms/unified_kill_chain.md)             |
+| **Pyramid of Pain**           | 🧠 Threat Intel     | Learn how to apply the Pyramid of Pain model to disrupt attackers | [View](rooms/pyramid_of_pain.md)           |
+| **Investigating Windows**     | 🧪 Forensics        | Hands-on Windows forensics and incident response skills    | [View](rooms/investigating_windows.md)          |
 
 > ✅ More write-ups coming soon...
 
