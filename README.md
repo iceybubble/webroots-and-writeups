@@ -65,6 +65,6 @@ I’m passionate about cybersecurity, and documenting my journey helps me:
 You can follow my progress on [TryHackMe](https://tryhackme.com/p/PallaviKathait)  
 Feel free to fork this repo or reach out if you’re on a similar path!
 
----
+
 
 🛠️ _Built with curiosity, coffee, and a terminal._
