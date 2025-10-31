@@ -36,6 +36,8 @@ Each write-up reflects:
 | **Unified Kill Chain**        | 🧠 Threat Intel     | Understanding modern attacker behavior and threat modeling | [View](rooms/unified_kill_chain.md)             |
 | **Pyramid of Pain**           | 🧠 Threat Intel     | Learn how to apply the Pyramid of Pain model to disrupt attackers | [View](rooms/pyramid_of_pain.md)           |
 | **Investigating Windows**     | 🧪 Forensics        | Hands-on Windows forensics and incident response skills    | [View](rooms/investigating_windows.md)          |
+| ** Tor**                      | Onion routing        | A tool for private, censorship-resistant access to the web and .onion services. [View](https://tryhackme.com/room/torforbeginners) |
+
 
 > ✅ More write-ups coming soon...
 
