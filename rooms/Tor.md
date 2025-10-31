@@ -1,10 +1,15 @@
 🧭 TryHackMe: Tor Room — Progress & Learning Documentation
 
 Room Title: (https://tryhackme.com/room/torforbeginners)Tor (TryHackMe)
+
 Platform: TryHackMe
+
 Difficulty: Beginner
+
 Category: Privacy · Anonymity · Reconnaissance (Tor / Onion Routing)
+
 Goal: Learn how the Tor network works, route traffic through Tor (including with proxychains), use the Tor Browser safely, and understand basic OPSEC/responsible behavior while using Tor.
+
 
 ✅ Room Completion Summary
 
